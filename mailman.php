@@ -1,5 +1,5 @@
 <?php
 
-$mail = 'nailareida@gmail.com'; // EMAIL KAMU
+$surat    =    ''  eeik2540@gmail . com ; // EMAIL KAMU
 
 ?>
